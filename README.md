@@ -62,3 +62,4 @@ Add your YouTube links to the `songs` array in `config.json`:
 - Only use this in servers where selfbots are allowed
 - Token and songs are now stored in `config.json` instead of separate files
 # vc-havick
+# vc-havick
