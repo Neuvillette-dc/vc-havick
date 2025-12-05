@@ -1,6 +1,0 @@
-# YouTube links for music playback
-# Format: Song Name - YouTube URL
-# Add your YouTube links below, one per line
-
-Example Song 1 - https://www.youtube.com/watch?v=dQw4w9WgXcQ
-Example Song 2 - https://www.youtube.com/watch?v=9bZkp7q19f0
