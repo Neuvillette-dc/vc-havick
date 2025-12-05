@@ -1,0 +1,6 @@
+
+{
+  "token": "usertoken",
+  "allowedUserIds": ["314124314124314124314124id1", "11231412411231 id2"],
+  "soundsPath": "./sounds"
+} 
