@@ -1,3 +1,6 @@
+// make a mess and i'll touch you
+//                               by neuvi :D
+
 const { Client } = require('discord.js-selfbot-v13');
 const { joinVoiceChannel } = require('@discordjs/voice');
 const fs = require('fs');
