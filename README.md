@@ -1,0 +1,1 @@
+make a sounds folder then add mp3 then fill rename example.config.json to config.json then fill it, then start the bot, then join a vc, then stop the bot, then add ur userid then start the bot, then rejoin the vc, then type then die :D
